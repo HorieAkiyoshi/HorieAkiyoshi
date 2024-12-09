@@ -1,6 +1,6 @@
 ### Hi! 僕は Horie Akiyoshi です🖐️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:linkedin.com/in/akiyoshi-horie-610967339)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akiyoshi-horie-610967339/)
 [![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/Vwmqqw0g1M)
 
 
