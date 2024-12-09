@@ -4,7 +4,7 @@
 [![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/Vwmqqw0g1M)
 
 
-![HorieAkiyoshi GitHub stats](https://github-readme-stats.vercel.app/api?username=HorieAkiyoshi&show_icons=true&theme=cobalt)
+![HorieAkiyoshi GitHub stats](https://github-readme-stats.vercel.app/api?username=HorieAkiyoshi&show_icons=true&theme=synthwave)
 
 ### 僕が勉強している技術は：
 
