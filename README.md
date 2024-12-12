@@ -4,7 +4,7 @@
 [![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/Vwmqqw0g1M)
 
 
-![HorieAkiyoshi GitHub stats](https://github-readme-stats.vercel.app/api?username=HorieAkiyoshi&show_icons=true&theme=synthwave)
+![HorieAkiyoshi GitHub stats](https://github-readme-stats.vercel.app/api?username=HorieAkiyoshi&show_icons=true&theme=cobalt)
 
 ### 僕が勉強している技術は：
 
@@ -19,4 +19,4 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-　ウェブサイトの作り方を学ぶのが楽しいので、日本でプログラマーとして働きたいと思います。
+　ウェブサイトの作り方を学ぶのが楽しいと思うので、日本でプログラマーとして働きたいです。
